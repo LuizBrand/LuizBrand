@@ -56,7 +56,7 @@ I am currently consolidating my knowledge in **Modular Monoliths** as a pragmati
 ### 📫 Connect with me
 
 <div align="left">
-  <a href="[www.linkedin.com/in/luizbrandao-](https://www.linkedin.com/in/luizbrandao-/)" target="_blank">
+  <a href="https://www.linkedin.com/in/luizbrandao-" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:luizbrand.dev@gmail.com">
