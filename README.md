@@ -1,4 +1,4 @@
-# Hello! I'm Luiz Felipe Brandão 👋
+# Hello! I'm Luiz Felipe Brandão ⚡
 
 ### 👨‍💻 Junior Backend Developer | Software Engineering Student
 
